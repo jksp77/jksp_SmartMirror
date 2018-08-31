@@ -1,0 +1,4 @@
+Temperatur: 29°C
+Icon: //cdn.apixu.com/weather/64x64/day/116.png
+Update: @ 2018-08-19 18:45
+Percipication: 0.9mm

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<location>
+<name>Luzern</name>
+<region></region>
+<country>Switzerland</country>
+<lat>47.08</lat>
+<lon>8.27</lon>
+<tz_id>Europe/Zurich</tz_id>
+<localtime_epoch>1533062284</localtime_epoch>
+<localtime>2018-07-31 20:38</localtime>
+</location>
+<current>
+<last_updated_epoch>1533060907</last_updated_epoch>
+<last_updated>2018-07-31 20:15</last_updated>
+<temp_c>33</temp_c>
+<temp_f>91.4</temp_f>
+<is_day>1</is_day>
+<condition>
+<text>Sunny</text>
+<icon>cdn.apixu.com/weather/64x64/day/200.png</icon>
+<code>1000</code>
+</condition>
+<wind_mph>3.8</wind_mph>
+<wind_kph>6.1</wind_kph>
+<wind_degree>340</wind_degree>
+<wind_dir>NNW</wind_dir>
+<pressure_mb>1017</pressure_mb>
+<pressure_in>30.5</pressure_in>
+<precip_mm>0</precip_mm>
+<precip_in>0</precip_in>
+<humidity>30</humidity>
+<cloud>0</cloud>
+<feelslike_c>32.5</feelslike_c>
+<feelslike_f>90.5</feelslike_f>
+<vis_km>19.1</vis_km>
+<vis_miles>11</vis_miles>
+</current>
+</root>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?><root>
+<location>
+<name>Luzern</name>
+<region></region>
+<country>Switzerland</country>
+<lat>47.08</lat>
+<lon>8.27</lon>
+<tz_id>Europe/Zurich</tz_id>
+<localtime_epoch>1533151961</localtime_epoch>
+<localtime>2018-08-01 21:32</localtime>
+</location>
+<current>
+<last_updated_epoch>1533150013</last_updated_epoch>
+<last_updated>2018-08-01 21:00</last_updated>
+<temp_c>23</temp_c>
+<temp_f>73.4</temp_f>
+<is_day>0</is_day>
+<condition>
+<text>Partly cloudy</text>
+<icon>//cdn.apixu.com/weather/64x64/night/116.png</icon>
+<code>1003</code>
+</condition>
+<wind_mph>4.3</wind_mph>
+<wind_kph>6.8</wind_kph>
+<wind_degree>20</wind_degree>
+<wind_dir>NNE</wind_dir>
+<pressure_mb>1020</pressure_mb>
+<pressure_in>30.6</pressure_in>
+<precip_mm>0.1</precip_mm>
+<precip_in>0</precip_in>
+<humidity>73</humidity>
+<cloud>25</cloud>
+<feelslike_c>25</feelslike_c>
+<feelslike_f>77</feelslike_f>
+<vis_km>14.5</vis_km>
+<vis_miles>9</vis_miles>
+</current>
+
+<forecast>
+<forecastday>
+<date>2018-08-01</date>
+<date_epoch>1533081600</date_epoch>
+<day>
+<maxtemp_c>30.8</maxtemp_c>
+<maxtemp_f>87.4</maxtemp_f>
+<mintemp_c>17.1</mintemp_c>
+<mintemp_f>62.8</mintemp_f>
+<avgtemp_c>23.9</avgtemp_c>
+<avgtemp_f>75.1</avgtemp_f>
+<maxwind_mph>5.1</maxwind_mph>
+<maxwind_kph>8.3</maxwind_kph>
+<totalprecip_mm>0.4</totalprecip_mm>
+<totalprecip_in>0.02</totalprecip_in>
+<avgvis_km>13.8</avgvis_km>
+<avgvis_miles>8</avgvis_miles>
+<avghumidity>66</avghumidity>
+<condition>
+<text>Patchy rain possible</text>
+<icon>//cdn.apixu.com/weather/64x64/day/176.png</icon>
+<code>1063</code>
+</condition>
+<uv>7.8</uv>
+</day><astro><sunrise>06:06 AM</sunrise><sunset>09:00 PM</sunset><moonrise>11:22 PM</moonrise><moonset>10:29 AM</moonset></astro></forecastday>
+<forecastday><date>2018-08-02</date><date_epoch>1533168000</date_epoch><day><maxtemp_c>29.4</maxtemp_c><maxtemp_f>84.9</maxtemp_f><mintemp_c>16.3</mintemp_c><mintemp_f>61.3</mintemp_f><avgtemp_c>23.6</avgtemp_c><avgtemp_f>74.5</avgtemp_f><maxwind_mph>7.2</maxwind_mph><maxwind_kph>11.5</maxwind_kph><totalprecip_mm>0.5</totalprecip_mm><totalprecip_in>0.02</totalprecip_in><avgvis_km>9.9</avgvis_km><avgvis_miles>6</avgvis_miles><avghumidity>72</avghumidity><condition><text>Moderate rain at times</text><icon>//cdn.apixu.com/weather/64x64/day/299.png</icon><code>1186</code></condition><uv>7.9</uv></day><astro><sunrise>06:07 AM</sunrise><sunset>08:59 PM</sunset><moonrise>11:46 PM</moonrise><moonset>11:34 AM</moonset></astro></forecastday><forecastday><date>2018-08-03</date><date_epoch>1533254400</date_epoch><day><maxtemp_c>29.8</maxtemp_c><maxtemp_f>85.6</maxtemp_f><mintemp_c>16.4</mintemp_c><mintemp_f>61.5</mintemp_f><avgtemp_c>23.4</avgtemp_c><avgtemp_f>74.1</avgtemp_f><maxwind_mph>7.2</maxwind_mph><maxwind_kph>11.5</maxwind_kph><totalprecip_mm>0</totalprecip_mm><totalprecip_in>0</totalprecip_in><avgvis_km>10</avgvis_km><avgvis_miles>6</avgvis_miles><avghumidity>76</avghumidity><condition><text>Partly cloudy</text><icon>//cdn.apixu.com/weather/64x64/day/116.png</icon><code>1003</code></condition><uv>8.2</uv></day><astro><sunrise>06:08 AM</sunrise><sunset>08:57 PM</sunset><moonrise>No moonrise</moonrise><moonset>12:39 PM</moonset></astro></forecastday></forecast></root>

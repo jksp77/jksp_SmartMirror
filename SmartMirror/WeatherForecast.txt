@@ -1,0 +1,13 @@
+Day: So 12.08
+Temperatur Avg: 18.8°C
+Temperatur MM: 24.3/14.3°C
+Icon: //cdn.apixu.com/weather/64x64/day/116.png
+Precipication: 0mmDay: Mo 13.08
+Temperatur Avg: 22°C
+Temperatur MM: 28.1/18.5°C
+Icon: //cdn.apixu.com/weather/64x64/day/116.png
+Precipication: 0mmDay: Di 14.08
+Temperatur Avg: 22°C
+Temperatur MM: 27.5/14.9°C
+Icon: //cdn.apixu.com/weather/64x64/day/356.png
+Precipication: 8.1mm

@@ -1,0 +1,13 @@
+Day: Mo 20.08
+Temperatur Avg: 21°C
+Temperatur MM: 26.4/16.3°C
+Icon: 64x64/day/176.png
+Precipication: 3.8mmDay: Di 21.08
+Temperatur Avg: 21.3°C
+Temperatur MM: 26.8/16.2°C
+Icon: 64x64/day/116.png
+Precipication: 0mmDay: Mi 22.08
+Temperatur Avg: 21.4°C
+Temperatur MM: 27.1/16.4°C
+Icon: 64x64/day/305.png
+Precipication: 1.1mm
