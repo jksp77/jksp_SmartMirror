@@ -9,7 +9,6 @@ import java.util.Date;
 import javax.swing.JPanel;
 
 import Config.Configuration;
-import Main.SmartMirror;
 
 public class CalEntry extends JPanel { 
 	private static final long serialVersionUID = 1L;
@@ -84,11 +83,6 @@ void getData() {
 		// TODO Auto-generated catch block
 		e.printStackTrace();
 	} 
-}
-public static void main(String[] args) {
-
-	CalEntry Entry = new CalEntry(1);
-	
 }
 
 }
