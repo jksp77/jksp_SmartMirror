@@ -16,6 +16,7 @@ public class CalendarMenu extends JPanel {
 
 	Clock clock;
 	JLabel Titel;
+	CalWeek Week;
 
 	public CalendarMenu() {
 		prop = new Configuration();
@@ -45,6 +46,13 @@ public class CalendarMenu extends JPanel {
 		Titel.setForeground(new Color(Integer.parseInt(prop.getProperty("TitelColor"))));
 		Titel.setText("Kalender");
 	
+		Week = new CalWeek();
+		this.add(Week);
+		
+		
+		
+		
+		
 	}
 
 	public void start() {
