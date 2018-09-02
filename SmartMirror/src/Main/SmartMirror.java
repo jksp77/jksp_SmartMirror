@@ -1,3 +1,4 @@
+package Main;
 import java.awt.Dimension;
 import java.awt.Point;
 import java.awt.Toolkit;
@@ -6,6 +7,10 @@ import java.awt.event.KeyListener;
 import java.awt.image.BufferedImage;
 
 import javax.swing.JFrame;
+
+import Calendar.CalendarMenu;
+import Config.Configuration;
+import Weather.WeatherMenu;
 
 public class SmartMirror extends JFrame implements KeyListener {
 

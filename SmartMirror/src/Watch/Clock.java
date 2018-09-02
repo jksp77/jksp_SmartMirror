@@ -1,8 +1,11 @@
+package Watch;
 import java.awt.Color;
 import java.awt.Font;
 import java.text.SimpleDateFormat;
 
 import javax.swing.JPanel;
+
+import Config.Configuration;
 
 public class Clock extends JPanel implements Runnable {
 	private static final long serialVersionUID = 1L;

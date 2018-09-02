@@ -1,5 +1,8 @@
+package Weather;
 import java.awt.Color;
 import javax.swing.JPanel;
+
+import Config.Configuration;
 
 public class Weather extends JPanel implements Runnable {
 	private static final long serialVersionUID = 1L;

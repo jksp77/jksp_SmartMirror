@@ -1,5 +1,10 @@
+package Main;
 import java.awt.Color;
 import javax.swing.JPanel;
+
+import Config.Configuration;
+import Watch.Clock;
+import Weather.Weather;
 
 public class HomeMenu extends JPanel {
 

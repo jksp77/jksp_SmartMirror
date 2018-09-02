@@ -1,3 +1,4 @@
+package Weather;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -26,6 +27,9 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
+
+import Main.SmartMirror;
+import Config.Configuration;
 
 public class Weatherforecast extends JPanel {
 

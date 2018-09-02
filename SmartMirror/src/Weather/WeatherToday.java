@@ -1,3 +1,4 @@
+package Weather;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -26,6 +27,9 @@ import javax.xml.parsers.ParserConfigurationException;
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;
+
+import Config.Configuration;
+import Main.SmartMirror;
 
 public class WeatherToday extends JPanel {
 

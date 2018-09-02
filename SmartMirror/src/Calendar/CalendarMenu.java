@@ -1,10 +1,14 @@
+package Calendar;
 import java.awt.Color;
 import java.awt.Font;
 
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-public class MailMenu extends JPanel {
+import Config.Configuration;
+import Watch.Clock;
+
+public class CalendarMenu extends JPanel {
 
 	private static final long serialVersionUID = 1L;
 
@@ -13,7 +17,7 @@ public class MailMenu extends JPanel {
 	Clock clock;
 	JLabel Titel;
 
-	public MailMenu() {
+	public CalendarMenu() {
 		prop = new Configuration();
 
 		this.setBackground(new Color(Integer.parseInt(prop.getProperty("Background"))));
@@ -39,7 +43,7 @@ public class MailMenu extends JPanel {
 				Integer.parseInt(prop.getProperty("TitelPosY")));
 		Titel.setVisible(Boolean.parseBoolean(prop.getProperty("TitelVisible")));
 		Titel.setForeground(new Color(Integer.parseInt(prop.getProperty("TitelColor"))));
-		Titel.setText("Mail");
+		Titel.setText("Kalender");
 	
 	}
 

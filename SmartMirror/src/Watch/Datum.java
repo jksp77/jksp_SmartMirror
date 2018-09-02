@@ -1,3 +1,4 @@
+package Watch;
 
 
 import java.awt.Color;
@@ -5,6 +6,8 @@ import java.awt.Font;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import javax.swing.JLabel;
+
+import Config.Configuration;
 
 public class Datum extends JLabel{
 
