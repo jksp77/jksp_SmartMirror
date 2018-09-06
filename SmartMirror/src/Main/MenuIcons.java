@@ -95,11 +95,11 @@ public class MenuIcons extends JPanel {
 			
 			
 		case "Calendar":
-			Icon0.setIcon(IconHome);
-			Icon1.setIcon(null);
-			Icon2.setIcon(null);
+			Icon0.setIcon(IconArrowBack);
+			Icon1.setIcon(IconArrowRight);
+			Icon2.setIcon(IconArrowLeft);
 			Icon3.setIcon(null);
-			Icon4.setIcon(null);
+			Icon4.setIcon(IconHome);
 			break;
 		case "Mail":
 			Icon0.setIcon(null);

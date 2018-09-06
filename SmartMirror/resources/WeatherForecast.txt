@@ -1,13 +1,13 @@
-Day: Mo 03.09
-Temperatur Avg: 13.2°C
-Temperatur MM: 18.1/8.4°C
-Icon: 64x64/day/119.png
-Precipication: 0mmDay: Di 04.09
-Temperatur Avg: 15.8°C
-Temperatur MM: 22.4/12.8°C
+Day: Fr 07.09
+Temperatur Avg: 19.1°C
+Temperatur MM: 25/14.1°C
+Icon: 64x64/day/356.png
+Precipication: 2.3mmDay: Sa 08.09
+Temperatur Avg: 16.5°C
+Temperatur MM: 22/12.8°C
 Icon: 64x64/day/176.png
-Precipication: 0.1mmDay: Mi 05.09
-Temperatur Avg: 17.7°C
-Temperatur MM: 23.1/14.8°C
+Precipication: 7.7mmDay: So 09.09
+Temperatur Avg: 18.7°C
+Temperatur MM: 24.1/15.2°C
 Icon: 64x64/day/116.png
 Precipication: 0mm

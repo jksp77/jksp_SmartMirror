@@ -16,11 +16,16 @@ public class CalendarMenu extends JPanel {
 
 	Clock clock;
 	JLabel Titel;
-	CalWeek Week;
+	public CalWeek Week;
+	
+	CalConfig CalData;
+	int AnzahlEvents;
 
 	public CalendarMenu() {
-		prop = new Configuration();
-
+		
+	prop = new Configuration();
+	CalData = new CalConfig();
+	
 		this.setBackground(new Color(Integer.parseInt(prop.getProperty("Background"))));
 		this.setLayout(null);
 
@@ -45,12 +50,18 @@ public class CalendarMenu extends JPanel {
 		Titel.setVisible(Boolean.parseBoolean(prop.getProperty("TitelVisible")));
 		Titel.setForeground(new Color(Integer.parseInt(prop.getProperty("TitelColor"))));
 		Titel.setText("Kalender");
+		
+		
+		refreshData();
 	
 		Week = new CalWeek();
 		this.add(Week);
-		
-		
-		
+		Week.setLocation(0, 200);
+		Week.setSize(750, 800);
+		Week.setVisible(true);
+
+		refreshData();
+
 		
 		
 	}
@@ -66,4 +77,13 @@ public class CalendarMenu extends JPanel {
 	
 		this.setVisible(false);
 	}
+	
+	public void refreshData() {
+	AnzahlEvents = Integer.parseInt(CalData.getProperty("Anzahl"));
+		
+		
+		
+	}
+	
+	
 }

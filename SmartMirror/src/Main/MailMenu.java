@@ -5,6 +5,7 @@ import java.awt.Font;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+import Calendar.CalEntry;
 import Config.Configuration;
 import Watch.Clock;
 
@@ -16,6 +17,8 @@ public class MailMenu extends JPanel {
 
 	Clock clock;
 	JLabel Titel;
+	
+	
 
 	public MailMenu() {
 		prop = new Configuration();
@@ -44,6 +47,8 @@ public class MailMenu extends JPanel {
 		Titel.setVisible(Boolean.parseBoolean(prop.getProperty("TitelVisible")));
 		Titel.setForeground(new Color(Integer.parseInt(prop.getProperty("TitelColor"))));
 		Titel.setText("Mail");
+		
+		
 	
 	}
 

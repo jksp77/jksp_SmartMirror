@@ -106,7 +106,7 @@ public class SmartMirror extends JFrame implements KeyListener {
 				openMenu("Calendar");
 				break;
 			case "Calendar":
-				;
+				PCalendar.Week.presentWeek();
 				break;
 			case "Mail":
 
@@ -123,7 +123,7 @@ public class SmartMirror extends JFrame implements KeyListener {
 				openMenu("Mail");
 				break;
 			case "Calendar":
-
+				PCalendar.Week.nextWeek();
 				break;
 			case "Mail":
 
@@ -140,7 +140,7 @@ public class SmartMirror extends JFrame implements KeyListener {
 				openMenu("Weather");
 				break;
 			case "Calendar":
-
+				PCalendar.Week.lastWeek();
 				break;
 			case "Mail":
 
@@ -157,7 +157,7 @@ public class SmartMirror extends JFrame implements KeyListener {
 				openMenu("Settings");
 				break;
 			case "Calendar":
-
+				PCalendar.Week.refresh();
 				break;
 			case "Mail":
 
